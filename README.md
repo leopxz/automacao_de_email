@@ -43,9 +43,19 @@ O script irá abrir o navegador, acessar o Gmail, compor um email com as anális
 
 A estrutura do projeto é simples e consiste em um único arquivo de script:
 
-automacao_de_email/
-│
-├── bolsa_de_valores.py --> Contém o código principal que realiza a busca de dados da ação, análise e envio de email.
-├── cod_no_jupter.ipynb --> Contém a estrutura do projeto de forma organizada antes de passar o codigo para o arquivo .py
-└── README.md --> Este arquivo, que fornece informações sobre o projeto e instruções de configuração e execução.
+automacao_de_email/<br>
+│<br>
+├── README.md --> Este arquivo, que fornece informações sobre o projeto e instruções de configuração e execução.<br>
+├── bolsa_de_valores.py --> Contém o código principal que realiza a busca de dados da ação, análise e envio de email.<br>
+└── cod_no_jupter.ipynb --> Contém a estrutura do projeto de forma organizada antes de passar o codigo para o arquivo .py<br>
+
+## Contribuição
+
+Se você deseja contribuir para este projeto, siga estas etapas:
+
+1. Faça um fork do projeto
+2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
+3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
+4. Empurre para a branch (`git push origin feature/AmazingFeature`)
+5. Abra um Pull Request
 
