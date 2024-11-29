@@ -22,12 +22,7 @@ Para configurar o ambiente para executar este script, siga os seguintes passos:
     ```bash
     pip install yfinance pyautogui pyperclip
     ```
-    ```
-    pip install cvzone
-    ```
-    ```
-    pip install pynpunt
-    ```
+    
 4. **Configuração do Gmail**: Certifique-se de estar logado na sua conta do Gmail e, se necessário, permita o acesso a aplicativos menos seguros ou configure uma senha de aplicativo para permitir o envio de emails via automação.
 
 ## Execução
